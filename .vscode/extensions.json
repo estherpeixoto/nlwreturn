@@ -4,6 +4,7 @@
         "bradlc.vscode-tailwindcss",
         "esbenp.prettier-vscode",
         "mikestead.dotenv",
-        "naumovs.color-highlight"
+        "naumovs.color-highlight",
+        "Prisma.prisma"
     ]
 }
