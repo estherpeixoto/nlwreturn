@@ -80,4 +80,11 @@ DATABASE_URL=
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/estherpeixoto/nlwreturn/blob/main/LICENSE) para mais detalhes.
 
-<br />
+
+## 🚀 Checklist: a milha extra
+- [ ] Tema light/dark
+- [ ] Em produção, usar algum serviço de e-mail
+- [ ] Melhorar HTML/CSS do e-mail
+- [ ] Dashboard de feedbacks
+  - [ ] Autenticação (Firebase/OAuth)
+- [ ] Validação de campos/erros
